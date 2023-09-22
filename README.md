@@ -12,13 +12,12 @@ The world can be an overwhelming place, so I help making people’s life easier 
 
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
-- 🖥️ I have been working for JinnByte Private Limited as a Node Js Developer
-- 🖨️ I have worked in Python, Php and Node.js and databases which include MS SQL, Firebase and Mongo DB and Dynamo DB
+- 🖥️ I have been working for Zweidevs Private Limited as a Software engineer
+- 🖨️ I have worked in Python, Php, laravel and Node.js and databases which include MS SQL, Firebase and MongoDB and DynamoDB
 - 🧑‍💻 Besides having great skills, I believe learning must never end! I have learnt many new skills such as Team Work, Management, and Relation Building
 - 🎾 In my free time, I am a gaming geek, I love to play PUBG Multiplayer and Story Mode Games
 - ⛰️ Love exploring off-beat hikes and peaks in the Northern Pakistan. My absolute favorite: <a href="https://goo.gl/maps/zV3r6AYPzJPiWTPC9">Siri Paye Meadows</a>
 - 😄 Pronouns: He/him
-- 🤯 A strange fact about me: I am a Grammar Nazi 😬
 
 <h3>💻 GitHub Profile Stats</h3>
 <div style="display: flex;">

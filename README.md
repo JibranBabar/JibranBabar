@@ -22,13 +22,13 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 <h3>💻 GitHub Profile Stats</h3>
 <div style="display: flex;">
   <div style="padding-right: 0px;">
-    <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=JibranBabar&theme=radical" />
+    <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Jibranbabar&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Jibran Babar's github stats" />
   </div>
   <div style="padding-right: 0px;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JibranBabar&layout=compact&theme=radical" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JibranBabar&layout=compact&theme=radical" alt="Jibran Babar's github top used language" />
   </div>
 </div>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <b>Comit History:</b>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=JibranBabar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+|      **tokyo-night**       |  <img src="tokyo-night.png" height=250 alt="graph"/>   |

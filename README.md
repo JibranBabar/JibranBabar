@@ -24,6 +24,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
   <div style="padding-right: 0px;">
     <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Jibranbabar&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Jibran Babar's github stats" />
   </div>
+  <br/>
   <div style="padding-right: 0px;">
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JibranBabar&layout=compact&theme=radical" alt="Jibran Babar's github top used language" />
   </div>
@@ -31,4 +32,5 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <b>Comit History:</b>
-|      **tokyo-night**       |  <img src="tokyo-night.png" height=250 alt="graph"/>   |
+<br>
+<img src="tokyo-night.png" height=250 alt="graph"/>

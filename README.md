@@ -32,5 +32,4 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <b>Comit History:</b>
-<br>
-<img src="tokyo-night.png" height=250 alt="graph"/>
+[![Jibran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JibranBabar&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)

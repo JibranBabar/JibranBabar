@@ -10,7 +10,7 @@ The world can be overwhelming, so I help make people’s lives easier by develop
 
 <a href="#"><img src="zd_badge.png" width="200" align="right" alt="avatar"/></a>
 
-Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
+Let me tell you a bit about myself 
 
 - 🖥️ I have been working for Zweidevs Private Limited as a Software engineer
 - 🖨️ I have worked in Python, PHP, laravel, and Node.js and databases which include MS SQL, Firebase, MongoDB, and DynamoDB
